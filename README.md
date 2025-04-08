@@ -4,7 +4,7 @@ This project performs binary sentiment classification (positive/negative) on mov
 
 ## 📂 Dataset
 
-- Dataset: [IMDB Movie Review Dataset]([https://ai.stanford.edu/~amaas/data/sentiment/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews])
+- Dataset: [IMDB Movie Review Dataset]([https://ai.stanford.edu/~amaas/data/sentiment/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - Format: `CSV` with two columns: `review` and `sentiment`
 
 ## ⚙️ Features
